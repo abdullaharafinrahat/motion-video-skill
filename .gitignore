@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+chunks/
+out/
+preview/
+logs/
+frames/
+matte/
